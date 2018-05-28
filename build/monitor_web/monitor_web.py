@@ -22,6 +22,7 @@ if __name__ == '__main__':
             print(get_website_status(url))
 def mypass():
     pass
+    pass
 
 
 
