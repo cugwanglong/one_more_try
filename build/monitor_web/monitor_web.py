@@ -20,9 +20,6 @@ if __name__ == '__main__':
             print("检测异常，异常时间：",time.asctime(),"请查看D盘目录下resul.txt文件")
             print (('%s status is error' %url),file=f)
             print(get_website_status(url))
-def mypass():
-    pass
-    pass
 
 
 
